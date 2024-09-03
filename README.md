@@ -2,3 +2,9 @@
 
 #### 🚩IDE : Eclipse IDE for Enterprise Java and Web Developers
 #### 🚩JDK : Java 1.8
+
+---
+
+### D2
+- 1204번 [최빈수 구하기](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1204.java)
+- 1859번 [백만 장자 프로젝트](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1859.java)
