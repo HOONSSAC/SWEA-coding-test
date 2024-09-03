@@ -56,5 +56,6 @@ public class SWEA_2001 {
 			System.out.println("#" + test_case + " " + max);
 
 		}
+		sc.close();
 	}
 }
