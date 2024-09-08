@@ -41,5 +41,6 @@ public class SWEA_1989 {
 			System.out.println("#" + test_case + " " + answer);
 			
 		}
+		sc.close();
 	}
 }
