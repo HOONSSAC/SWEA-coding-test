@@ -13,5 +13,8 @@
 - 1984번 [중간 평균값 구하기](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1984.java)
 - 1954번 [달팽이 숫자](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1954.java)
 - 1974번 [스도쿠 검증](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1974.java)
-
+- 2005번 [파스칼의 삼각형](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_2005.java)
+- 1989번 [초심자의 회문 검사](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1989.java)
   
+
+
