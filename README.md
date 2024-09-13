@@ -21,3 +21,7 @@
 ### D3
 - 1206번 [View](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1206.java)
 - 1244번 [최대 상금](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1244.java)
+- 1208번 [Flatten](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1208.java)
+- 5215번 [햄버거 다이어트](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_5125.java)
+- 1209번 [Sum](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1209.java)
+
