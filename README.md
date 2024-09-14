@@ -24,4 +24,6 @@
 - 1208번 [Flatten](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1208.java)
 - 5215번 [햄버거 다이어트](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_5125.java)
 - 1209번 [Sum](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1209.java)
-
+- 2805번 [농작물 수확하기](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_2805.java)
+- 1225번 [암호생성기](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1225.java)
+- 1860번 [진기의 최고급 붕어](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1860.java)
