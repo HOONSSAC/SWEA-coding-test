@@ -27,3 +27,4 @@
 - 2805번 [농작물 수확하기](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_2805.java)
 - 1225번 [암호생성기](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1225.java)
 - 1860번 [진기의 최고급 붕어](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1860.java)
+- 6190번 [정곤이의 단조 증가하는 수](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_6190.java)
