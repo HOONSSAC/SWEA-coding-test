@@ -17,6 +17,7 @@
 - 1989번 [초심자의 회문 검사](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1989.java)
 - 1979번 [어디에 단어가 들어갈 수 있을까](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1979.java)
 - 1983번 [조교의 성적 매기기](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1983.java)
+- 1970번 [쉬운 거스름돈](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1970.java)
 
 ### D3
 - 1206번 [View](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1206.java)
