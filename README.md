@@ -31,3 +31,4 @@
 - 6190번 [정곤이의 단조 증가하는 수](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_6190.java)
 - 1240번 [단순 2진 암호코드](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1240.java)
 - 1215번 [회문1](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1240.java)
+- 2806번 [N-Queen](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_2806.java)
