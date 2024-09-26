@@ -33,3 +33,4 @@
 - 1215번 [회문1](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1240.java)
 - 2806번 [N-Queen](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_2806.java)
 - 1289번 [원재의 메모리 복구하기](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1289.java)
+- 1220번 [Magnetic](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1220.java)
