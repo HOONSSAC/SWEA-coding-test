@@ -37,3 +37,5 @@
 - 1213번 [String](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1213.java)
 - 1217번 [거듭 제곱](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1217.java)
 - 1216번 [회문2](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1216.java)
+- 1228번 [암호문1](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1228.java)
+- 1873번 [상호의 배틀필드](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1873.java)
