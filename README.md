@@ -40,3 +40,4 @@
 - 1228번 [암호문1](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1228.java)
 - 1873번 [상호의 배틀필드](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1873.java)
 - 1230번 [암호문3](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1230.java)
+- 4615번 [재미있는 오셀로 게임](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_4615.java)
