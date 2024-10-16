@@ -42,3 +42,4 @@
 - 1230번 [암호문3](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1230.java)
 - 4615번 [재미있는 오셀로 게임](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_4615.java)
 - 2814번 [최장 경로](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_2814.java)
+- 6485번 [삼성시의 버스 노선](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_6485.java)
