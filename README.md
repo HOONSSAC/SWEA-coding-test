@@ -20,6 +20,7 @@
 - 1970번 [쉬운 거스름돈](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1970.java)
 - 1946번 [간단한 압축 풀기](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1946.java)
 - 1959번 [두 개의 숫자열](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1959.java)
+- 1284번 [수도 요금 경쟁](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1284.java)
   
 ### D3
 - 1206번 [View](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1206.java)
@@ -45,3 +46,4 @@
 - 4615번 [재미있는 오셀로 게임](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_4615.java)
 - 2814번 [최장 경로](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_2814.java)
 - 6485번 [삼성시의 버스 노선](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_6485.java)
+- 1234번 [비밀번호](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1234.java)
