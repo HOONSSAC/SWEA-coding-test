@@ -48,3 +48,7 @@
 - 6485번 [삼성시의 버스 노선](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_6485.java)
 - 1234번 [비밀번호](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1234.java)
 - 2817번 [부분 수열의 합](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_2817.java)
+- 3431번 [준환이의 운동관리](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_3431.java)
+- 1221번 [GNS](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1221.java)
+- 6808번 [규영이와 인영이의 카드게임](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_6808.java)
+  
