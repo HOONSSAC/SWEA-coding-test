@@ -51,4 +51,6 @@
 - 3431번 [준환이의 운동관리](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_3431.java)
 - 1221번 [GNS](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1221.java)
 - 6808번 [규영이와 인영이의 카드게임](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_6808.java)
+- 11315번 [오목 판정](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_11315.java)
+- 1493번 [수의 새로운 연산](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1493.java)
   
