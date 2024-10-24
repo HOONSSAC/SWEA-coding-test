@@ -22,6 +22,9 @@
 - 1959번 [두 개의 숫자열](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1959.java)
 - 1284번 [수도 요금 경쟁](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1284.java)
 - 1961번 [숫자 배열 회전](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1961.java)
+- 1986번 [지그재그 숫자](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1986.java)
+
+  
 ### D3
 - 1206번 [View](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1206.java)
 - 1244번 [최대 상금](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1244.java)
