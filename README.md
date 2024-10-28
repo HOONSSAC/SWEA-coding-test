@@ -23,6 +23,7 @@
 - 1284번 [수도 요금 경쟁](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1284.java)
 - 1961번 [숫자 배열 회전](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1961.java)
 - 1986번 [지그재그 숫자](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1986.java)
+- 1945번 [간단한 소인수분해](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1945.java)
 
   
 ### D3
