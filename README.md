@@ -25,6 +25,7 @@
 - 1986번 [지그재그 숫자](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1986.java)
 - 1945번 [간단한 소인수분해](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1945.java)
 - 1966번 [숫자를 정렬하자](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1966.java)
+- 1948번 [날짜 계산기](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1948.java)
 
   
 ### D3
@@ -60,5 +61,5 @@
 - 1493번 [수의 새로운 연산](https://github.com/HOONSSAC/SWEA-coding-test/blob/main/src/SWEA_1493.java)
 
 
-### D4
+
   
